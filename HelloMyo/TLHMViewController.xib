@@ -25,15 +25,8 @@
                     <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                     <nil key="highlightedColor"/>
                 </label>
-                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="32" id="wE7-kZ-Wi6" userLabel="counterLabel">
-                    <rect key="frame" x="55" y="169" width="211" height="113"/>
-                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                    <fontDescription key="fontDescription" type="boldSystem" pointSize="63"/>
-                    <color key="textColor" red="0.26864790347760131" green="0.70197860054347827" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                    <nil key="highlightedColor"/>
-                </label>
                 <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" progress="0.5" id="Vj3-uT-d0C" userLabel="rotationProgressBar">
-                    <rect key="frame" x="64" y="329" width="194" height="2"/>
+                    <rect key="frame" x="63" y="413" width="194" height="2"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                     <color key="tintColor" red="0.11933534649999999" green="0.15806563709999999" blue="0.3411599864" alpha="1" colorSpace="calibratedRGB"/>
                     <color key="progressTintColor" red="0.26864790350000001" green="0.70197860050000005" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -50,6 +43,13 @@
                         <action selector="didTapSettings:" destination="-1" eventType="touchUpInside" id="1qB-Xt-IAA"/>
                     </connections>
                 </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" minimumFontSize="4" id="wE7-kZ-Wi6" userLabel="counterLabel">
+                    <rect key="frame" x="141" y="254" width="41" height="60"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="135"/>
+                    <color key="textColor" red="0.26864790347760131" green="0.70197860054347827" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
             </subviews>
             <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
             <nil key="simulatedStatusBarMetrics"/>

@@ -216,7 +216,7 @@
 				ORGANIZATIONNAME = "Thalmic Labs";
 				TargetAttributes = {
 					4D00AF1417CE6E3800A0FAE8 = {
-						DevelopmentTeam = URZLKKU8HY;
+						DevelopmentTeam = 2S3D8J8M3T;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;

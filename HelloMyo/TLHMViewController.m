@@ -15,6 +15,10 @@ double accUpperBound = 1.5;
 double accLowerBound = .5;
 double twistBound = 2;
 double motionRange;
+double initWidth;
+double initHeight;
+double initx;
+double inity;
 float magnitude;
 
 TLMMyo *myo;
@@ -50,12 +54,17 @@ bool exerciseInProgress = false;
 - (id)init {
     // Initialize our view controller with a nib (see TLHMViewController.xib).
     self = [super initWithNibName:@"TLHMViewController" bundle:nil];
-    motionRange = upperBound - lowerBound;
     return self;
 }
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    initWidth=self.counterLabel.frame.size.width;
+    initHeight=self.counterLabel.frame.size.height;
+    initx=self.counterLabel.frame.origin.x;
+    inity=self.counterLabel.frame.origin.y;
+    
+    motionRange = upperBound - lowerBound;
 
     // Data notifications are received through NSNotificationCenter.
     // Posted whenever a TLMMyo connects
@@ -142,6 +151,7 @@ bool exerciseInProgress = false;
     // Reset the armLabel and helloLabel
     self.statusLabel.text = @"Twist arm to start";
     self.statusLabel.textColor = [UIColor darkGrayColor];
+    [self resetCount];
 
     
     //synced = false;
@@ -209,11 +219,41 @@ bool exerciseInProgress = false;
 
 - (void)incrementCount{
     count ++;
-    [self.counterLabel setText: @(count).stringValue];
+    double increment=2;
+    if(count==10){
+        increment=4;
+    }
+    double x=self.counterLabel.frame.origin.x;
+    double y=self.counterLabel.frame.origin.y;
+    double width=self.counterLabel.frame.size.width;
+    double height=self.counterLabel.frame.size.height;
+    if(height<120){
+        //x-=decrement;
+        //y-=decrement;
+        width+=increment;
+        height+=increment;
+    }
+    [UIView animateWithDuration:0.5 delay:0.f options:UIViewAnimationOptionCurveEaseOut animations:^{
+        CATransform3D transform = CATransform3DMakeScale(4.0, 4.0, 1.0);
+        self.counterLabel.layer.transform = transform;
+        self.counterLabel.alpha = 0.0;
+        //self.counterLabel.frame= CGRectMake(0, -20, 300, 500);
+        //[self.counterLabel setCenter:self.view.center];
+        //[self.CounterLabel setFont: [UIFont fontWithName:@"Helvetica Neue" size:30]];
+    }completion:^(BOOL finished) {
+        CATransform3D transform = CATransform3DMakeScale(1.0, 1.0, 1.0);
+        self.counterLabel.layer.transform = transform;
+        [self.counterLabel setText: @(count).stringValue];
+        self.counterLabel.alpha=1.0;
+        self.counterLabel.frame= CGRectMake(x, y, width, height);
+        [self.counterLabel setCenter:self.view.center];
+        //[self.CounterLabel setFont: [UIFont fontWithName:@"Helvetica Neue" size:i]];
+    }];
 }
 - (void)resetCount{
     count = 0;
     [self.counterLabel setText: @(count).stringValue];
+    self.counterLabel.frame= CGRectMake(initx, inity, initWidth, initHeight);
 }
 
 
