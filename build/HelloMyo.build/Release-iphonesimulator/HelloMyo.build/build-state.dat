@@ -1,0 +1,607 @@
+THelloMyo
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-dorsmocivhptkndtcdkxofiyramg/HelloMyo-Prefix.pch.pch HelloMyo/HelloMyo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-efyejmynwznimrdbjysrluyyqstj/HelloMyo-Prefix.pch.pch HelloMyo/HelloMyo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMViewController.o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMAppDelegate.o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/main.o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMViewController.o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMAppDelegate.o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/main.o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/HelloMyo normal i386
+cLd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/HelloMyo normal x86_64
+cCreateUniversalBinary /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/HelloMyo normal i386\ x86_64
+cCopyStringsFile /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/en.lproj/InfoPlist.strings HelloMyo/en.lproj/InfoPlist.strings
+cCompileXIB /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.xib
+cCompileAssetCatalog /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/Images.xcassets
+cProcessInfoPlistFile /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/Info.plist /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/HelloMyo-Info.plist
+cGenerateDSYMFile /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app.dSYM /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/HelloMyo
+cTouch /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/HelloMyo-Info.plist
+c000000005411F50F00000000000004F1
+t1410462991
+s1265
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/HelloMyo-Prefix.pch
+c000000005411F50F0000000000000158
+t1410462991
+s344
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/Images.xcassets
+c000000005411F50F0000000000000088
+t1410462991
+s136
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.m
+c000000005411F50F0000000000000A16
+t1410462991
+s2582
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.m
+c000000005411F50F0000000000002888
+t1410462991
+s10376
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.xib
+c000000005411F50F0000000000001580
+t1410462991
+s5504
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/en.lproj/InfoPlist.strings
+c000000005411F50F000000000000002D
+t1410462991
+s45
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/main.m
+c000000005411F50F0000000000000169
+t1410462991
+s361
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/HelloMyo
+t1410463062
+s274840
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/HelloMyo.LinkFileList
+c000000005411F55600000000000001E1
+t1410463062
+s481
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMAppDelegate.o
+t1410463062
+s64440
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMViewController.o
+t1410463062
+s71916
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/main.o
+t1410463062
+s3612
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/HelloMyo
+t1410463062
+s309384
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/HelloMyo.LinkFileList
+c000000005411F55600000000000001E7
+t1410463062
+s487
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMAppDelegate.o
+t1410463062
+s71260
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMViewController.o
+t1410463062
+s76408
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/main.o
+t1410463062
+s4064
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/assetcatalog_dependencies.txt
+t1410463063
+s443
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/assetcatalog_generated_info.plist
+t1410463063
+s585
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app
+t1410463064
+s306
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app.dSYM
+t2
+s0
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/HelloMyo
+t1410463062
+s592008
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/Info.plist
+t1410463064
+s1086
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/PkgInfo
+t1410463064
+s8
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/TLHMViewController.nib
+t1410463064
+s136
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/en.lproj/InfoPlist.strings
+t1410463062
+s42
+
+N/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/MyoKit
+c000000005411F54C00000000003AB39C
+t1410463052
+s3847068
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534842480000000000000198
+t1397244488
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533EF19800000000000003B4
+t1396634008
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533EF19C000000000000019E
+t1396634012
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534841FF0000000000446820
+t1397244415
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533EF19E000000000088D8C0
+t1396634014
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000533EF1A000000000001081C0
+t1396634016
+s1081792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533EF1A20000000001F1DE10
+t1396634018
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533EF1DA0000000000000ADC
+t1396634074
+s2780
+
+N/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-dorsmocivhptkndtcdkxofiyramg/HelloMyo-Prefix.pch.pch
+t1410463062
+s122824
+
+N/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-efyejmynwznimrdbjysrluyyqstj/HelloMyo-Prefix.pch.pch
+t1410463062
+s123712
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesdcf44bd62cc2b941^5abd57d62cc2b941^---0#1#1#--18"Check dependencies36"0A9DA00D-05CA-4E37-9FEE-2BA30BE4C18A-
+
+CCompileAssetCatalog /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/Images.xcassets
+s432155862.742146
+e432155863.421135
+r1
+xCompileAssetCatalog
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/LaunchImage-700-568h@2x.png
+o/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/LaunchImage-568h@2x.png
+o/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"CompileAssetCatalog build/Release-iphonesimulator/HelloMyo.app HelloMyo/Images.xcassets87"CompileAssetCatalog build/Release-iphonesimulator/HelloMyo.app HelloMyo/Images.xcassetsb51abed62cc2b941^c4cf6bd72cc2b941^-471"/* com.apple.actool.compilation-results *//Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/LaunchImage-700-568h@2x.png/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/LaunchImage-568h@2x.png/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@97"file:///Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/Images.xcassets/0000000000000000^1289"CompileAssetCatalog build/Release-iphonesimulator/HelloMyo.app HelloMyo/Images.xcassets    cd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/assetcatalog_dependencies.txt --output-partial-info-plist /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 6.0 --target-device iphone --target-device ipad --compress-pngs --compile /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/Images.xcassets36"89847BE8-1885-483D-B41F-A31195EFD0F2-
+b538C4571-9623-4A90-84FB-D82B075DDB5B
+
+CCompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMAppDelegate.o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432155862.400428
+e432155862.596289
+r1
+xCompileC
+xbuild/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMAppDelegate.o
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.m
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/MyoKit.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMHub.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMMyo.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMOrientationEvent.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMEulerAngles.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMAngle.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMAccelerometerEvent.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMPose.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMSettingsViewController.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMGyroscopeEvent.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMArmRecognizedEvent.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.m201"CompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMAppDelegate.o HelloMyo/TLHMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdfa766d62cc2b941^65a698d62cc2b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.m0000000000000000^3964"CompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMAppDelegate.o HelloMyo/TLHMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-generated-files.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-own-target-headers.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-all-target-headers.hmap -iquote /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-project-headers.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/include -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/DerivedSources/i386 -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/DerivedSources -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/.. -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-dorsmocivhptkndtcdkxofiyramg/HelloMyo-Prefix.pch -MMD -MT dependencies -MF /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMAppDelegate.d --serialize-diagnostics /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMAppDelegate.dia -c /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.m -o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMAppDelegate.o36"66E8168E-3B1D-4103-8CA9-62682010DADD-
+b538C4571-9623-4A90-84FB-D82B075DDB5B
+
+CCompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMViewController.o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432155862.400168
+e432155862.636153
+r1
+xCompileC
+xbuild/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMViewController.o
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.m
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/MyoKit.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMHub.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMMyo.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMOrientationEvent.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMEulerAngles.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMAngle.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMAccelerometerEvent.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMPose.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMSettingsViewController.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMGyroscopeEvent.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMArmRecognizedEvent.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.m207"CompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMViewController.o HelloMyo/TLHMViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera98966d62cc2b941^05dda2d62cc2b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.m0000000000000000^3982"CompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMViewController.o HelloMyo/TLHMViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-generated-files.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-own-target-headers.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-all-target-headers.hmap -iquote /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-project-headers.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/include -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/DerivedSources/i386 -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/DerivedSources -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/.. -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-dorsmocivhptkndtcdkxofiyramg/HelloMyo-Prefix.pch -MMD -MT dependencies -MF /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMViewController.d --serialize-diagnostics /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMViewController.dia -c /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.m -o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMViewController.o36"799F6AC3-0C4F-4DD9-AEFB-94494556EE17-
+b538C4571-9623-4A90-84FB-D82B075DDB5B
+
+CCompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/main.o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432155862.400647
+e432155862.527256
+r1
+xCompileC
+xbuild/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/main.o
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/main.m
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/main.m179"CompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/main.o HelloMyo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9bab66d62cc2b941^742487d62cc2b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/main.m0000000000000000^3898"CompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/main.o HelloMyo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-generated-files.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-own-target-headers.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-all-target-headers.hmap -iquote /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-project-headers.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/include -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/DerivedSources/i386 -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/DerivedSources -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/.. -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-dorsmocivhptkndtcdkxofiyramg/HelloMyo-Prefix.pch -MMD -MT dependencies -MF /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/main.d --serialize-diagnostics /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/main.dia -c /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/main.m -o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/main.o36"2C2D65B0-1409-4B50-9B4E-0DA40E8B18CE-
+b538C4571-9623-4A90-84FB-D82B075DDB5B
+
+CCompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMAppDelegate.o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432155862.401687
+e432155862.595382
+r1
+xCompileC
+xbuild/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMAppDelegate.o
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.m
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/MyoKit.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMHub.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMMyo.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMOrientationEvent.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMEulerAngles.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMAngle.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMAccelerometerEvent.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMPose.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMSettingsViewController.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMGyroscopeEvent.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMArmRecognizedEvent.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.m205"CompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMAppDelegate.o HelloMyo/TLHMAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler23f566d62cc2b941^d36a98d62cc2b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.m0000000000000000^3975"CompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMAppDelegate.o HelloMyo/TLHMAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-generated-files.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-own-target-headers.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-all-target-headers.hmap -iquote /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-project-headers.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/include -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/DerivedSources/x86_64 -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/DerivedSources -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/.. -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-efyejmynwznimrdbjysrluyyqstj/HelloMyo-Prefix.pch -MMD -MT dependencies -MF /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMAppDelegate.d --serialize-diagnostics /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMAppDelegate.dia -c /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.m -o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMAppDelegate.o36"614EF5E3-456C-4503-8E76-D21C3A1F6426-
+b538C4571-9623-4A90-84FB-D82B075DDB5B
+
+CCompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMViewController.o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432155862.401259
+e432155862.634939
+r1
+xCompileC
+xbuild/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMViewController.o
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.m
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/MyoKit.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMHub.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMMyo.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMOrientationEvent.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMEulerAngles.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMAngle.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMAccelerometerEvent.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMPose.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMSettingsViewController.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMGyroscopeEvent.h
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/Headers/TLMArmRecognizedEvent.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.m211"CompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMViewController.o HelloMyo/TLHMViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler76e266d62cc2b941^a88da2d62cc2b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.m0000000000000000^3993"CompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMViewController.o HelloMyo/TLHMViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-generated-files.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-own-target-headers.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-all-target-headers.hmap -iquote /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-project-headers.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/include -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/DerivedSources/x86_64 -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/DerivedSources -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/.. -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-efyejmynwznimrdbjysrluyyqstj/HelloMyo-Prefix.pch -MMD -MT dependencies -MF /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMViewController.d --serialize-diagnostics /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMViewController.dia -c /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.m -o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMViewController.o36"35635A05-7B2F-40F1-96D0-4F73EB8767E2-
+b538C4571-9623-4A90-84FB-D82B075DDB5B
+
+CCompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/main.o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432155862.402135
+e432155862.528875
+r1
+xCompileC
+xbuild/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/main.o
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/main.m
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/main.m183"CompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/main.o HelloMyo/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3c1667d62cc2b941^ae6487d62cc2b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/main.m0000000000000000^3909"CompileC build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/main.o HelloMyo/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-generated-files.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-own-target-headers.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-all-target-headers.hmap -iquote /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-project-headers.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/include -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/DerivedSources/x86_64 -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/DerivedSources -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/.. -include /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-efyejmynwznimrdbjysrluyyqstj/HelloMyo-Prefix.pch -MMD -MT dependencies -MF /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/main.dia -c /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/main.m -o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/main.o36"68E9A880-B524-4A6A-A3C6-85BD870C58D8-
+b538C4571-9623-4A90-84FB-D82B075DDB5B
+
+CCompileXIB /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.xib
+s432155862.741759
+e432155864.691219
+r1
+xCompileXIB
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.xib
+o2014-09-11 15:17:43.747 Interface Builder Cocoa Touch Tool[8587:303] CFPreferences: user home directory at file:///var/root/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2014-09-11 15:17:44.638 Interface Builder Cocoa Touch Tool[8590:303] CFPreferences: user home directory at file:///var/root/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compiling /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.xib42"CompileXIB HelloMyo/TLHMViewController.xib54febdd62cc2b941^edf3b0d82cc2b941^-452"2014-09-11 15:17:43.747 Interface Builder Cocoa Touch Tool[8587:303] CFPreferences: user home directory at file:///var/root/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2014-09-11 15:17:44.638 Interface Builder Cocoa Touch Tool[8590:303] CFPreferences: user home directory at file:///var/root/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@103"file:///Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.xib0000000000000000^873"CompileXIB HelloMyo/TLHMViewController.xib    cd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/TLHMViewController.nib /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/TLHMViewController.xib36"C393F889-8A27-4B2B-92E7-5136920772E4-
+b538C4571-9623-4A90-84FB-D82B075DDB5B
+
+CCopyStringsFile /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/en.lproj/InfoPlist.strings HelloMyo/en.lproj/InfoPlist.strings
+s432155862.741539
+e432155862.743225
+r1
+xCopyStringsFile
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/en.lproj/InfoPlist.strings
+xHelloMyo/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy HelloMyo/en.lproj/InfoPlist.strings121"CopyStringsFile build/Release-iphonesimulator/HelloMyo.app/en.lproj/InfoPlist.strings HelloMyo/en.lproj/InfoPlist.stringsf1f1bdd62cc2b941^0b45bed62cc2b941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/en.lproj/InfoPlist.strings0000000000000000^665"CopyStringsFile build/Release-iphonesimulator/HelloMyo.app/en.lproj/InfoPlist.strings HelloMyo/en.lproj/InfoPlist.strings    cd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/en.lproj -- HelloMyo/en.lproj/InfoPlist.strings36"E46DCD97-E9DA-421A-BF0B-842329F60A55-
+b538C4571-9623-4A90-84FB-D82B075DDB5B
+
+CCreateUniversalBinary /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/HelloMyo normal i386\ x86_64
+s432155862.701258
+e432155862.741124
+r1
+xCreateUniversalBinary
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/HelloMyo
+xnormal
+xi386 x86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Create universal binary /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/HelloMyo93"CreateUniversalBinary build/Release-iphonesimulator/HelloMyo.app/HelloMyo normal i386\ x86_64ada6b3d62cc2b941^17bbbdd62cc2b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/HelloMyo0034f027deffdf42^930"CreateUniversalBinary build/Release-iphonesimulator/HelloMyo.app/HelloMyo normal i386\ x86_64    cd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/HelloMyo /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/HelloMyo -output /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/HelloMyo36"62820BE1-5533-426A-AEA7-7295154E3EDA-
+b538C4571-9623-4A90-84FB-D82B075DDB5B
+
+CGenerateDSYMFile /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app.dSYM /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/HelloMyo
+s432155864.693926
+e432155864.761939
+r1
+xGenerateDSYMFile
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app.dSYM
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/HelloMyo
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Generate /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app.dSYM116"GenerateDSYMFile build/Release-iphonesimulator/HelloMyo.app.dSYM build/Release-iphonesimulator/HelloMyo.app/HelloMyoa6b5b1d82cc2b941^b20ec3d82cc2b941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app.dSYM0034f027deffdf42^747"GenerateDSYMFile build/Release-iphonesimulator/HelloMyo.app.dSYM build/Release-iphonesimulator/HelloMyo.app/HelloMyo    cd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/HelloMyo -o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app.dSYM36"16ABE7D8-F148-430A-8A64-94CC8EC9ACA8-
+b538C4571-9623-4A90-84FB-D82B075DDB5B
+
+CLd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/HelloMyo normal i386
+s432155862.637026
+e432155862.690050
+r1
+xLd
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/HelloMyo
+xnormal
+xi386
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/HelloMyo.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMViewController.o
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/TLHMAppDelegate.o
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/MyoKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/GLKit.framework/GLKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreBluetooth.framework/CoreBluetooth
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"Link /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/HelloMyo103"Ld build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/HelloMyo normal i386e529a3d62cc2b941^61a7b0d62cc2b941^---0#0#1#--1860"Ld build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/HelloMyo normal i386    cd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator -L/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/.. -filelist /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/HelloMyo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework SystemConfiguration -framework MyoKit -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/HelloMyo_dependency_info.dat -o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/i386/HelloMyo36"E7F099A5-1744-43DE-BB2A-2B38FE6FBE63-
+b538C4571-9623-4A90-84FB-D82B075DDB5B
+
+CLd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/HelloMyo normal x86_64
+s432155862.637309
+e432155862.700261
+r1
+xLd
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/HelloMyo
+xnormal
+xx86_64
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/HelloMyo.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMViewController.o
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/TLHMAppDelegate.o
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/MyoKit.framework/MyoKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/GLKit.framework/GLKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreBluetooth.framework/CoreBluetooth
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection160"Link /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/HelloMyo107"Ld build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/HelloMyo normal x86_64de3aa3d62cc2b941^9144b3d62cc2b941^---0#0#1#--1872"Ld build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/HelloMyo normal x86_64    cd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator -L/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/.. -filelist /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/HelloMyo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework SystemConfiguration -framework MyoKit -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/HelloMyo_dependency_info.dat -o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/Objects-normal/x86_64/HelloMyo36"ED956007-469B-4F62-AF7E-506C2E1F3F43-
+b538C4571-9623-4A90-84FB-D82B075DDB5B
+
+CProcessInfoPlistFile /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/Info.plist /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/HelloMyo-Info.plist
+s432155864.691771
+e432155864.693449
+r1
+xProcessInfoPlistFile
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/Info.plist
+x/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/HelloMyo-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Process /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/HelloMyo-Info.plist103"ProcessInfoPlistFile build/Release-iphonesimulator/HelloMyo.app/Info.plist HelloMyo/HelloMyo-Info.plistb22bb1d82cc2b941^6686b1d82cc2b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/HelloMyo-Info.plist0000000000000000^1018"ProcessInfoPlistFile build/Release-iphonesimulator/HelloMyo.app/Info.plist HelloMyo/HelloMyo-Info.plist    cd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/HelloMyo-Info.plist -genpkginfo /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/assetcatalog_generated_info.plist -o /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app/Info.plist36"CCF934E7-2282-4CF8-8EBC-0F9E1768543C-
+b538C4571-9623-4A90-84FB-D82B075DDB5B
+
+CProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-dorsmocivhptkndtcdkxofiyramg/HelloMyo-Prefix.pch.pch HelloMyo/HelloMyo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432155862.343671
+e432155862.399543
+r1
+xProcessPCH
+x/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-dorsmocivhptkndtcdkxofiyramg/HelloMyo-Prefix.pch.pch
+xHelloMyo/HelloMyo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/HelloMyo-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile HelloMyo/HelloMyo-Prefix.pch294"ProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-dorsmocivhptkndtcdkxofiyramg/HelloMyo-Prefix.pch.pch HelloMyo/HelloMyo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerec3258d62cc2b941^734866d62cc2b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/HelloMyo-Prefix.pch0000000000000000^3942"ProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-dorsmocivhptkndtcdkxofiyramg/HelloMyo-Prefix.pch.pch HelloMyo/HelloMyo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-generated-files.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-own-target-headers.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-all-target-headers.hmap -iquote /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-project-headers.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/include -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/DerivedSources/i386 -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/DerivedSources -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/.. --serialize-diagnostics /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-dorsmocivhptkndtcdkxofiyramg/HelloMyo-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-dorsmocivhptkndtcdkxofiyramg/HelloMyo-Prefix.pch.d -c /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/HelloMyo-Prefix.pch -o /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-dorsmocivhptkndtcdkxofiyramg/HelloMyo-Prefix.pch.pch36"85703C8B-E314-441D-B872-E823304A244A-
+b538C4571-9623-4A90-84FB-D82B075DDB5B
+
+CProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-efyejmynwznimrdbjysrluyyqstj/HelloMyo-Prefix.pch.pch HelloMyo/HelloMyo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432155862.344062
+e432155862.399545
+r1
+xProcessPCH
+x/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-efyejmynwznimrdbjysrluyyqstj/HelloMyo-Prefix.pch.pch
+xHelloMyo/HelloMyo-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/HelloMyo-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile HelloMyo/HelloMyo-Prefix.pch296"ProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-efyejmynwznimrdbjysrluyyqstj/HelloMyo-Prefix.pch.pch HelloMyo/HelloMyo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler7b3158d62cc2b941^014f66d62cc2b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/HelloMyo-Prefix.pch0000000000000000^3945"ProcessPCH /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-efyejmynwznimrdbjysrluyyqstj/HelloMyo-Prefix.pch.pch HelloMyo/HelloMyo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-generated-files.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-own-target-headers.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-all-target-headers.hmap -iquote /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/HelloMyo-project-headers.hmap -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/include -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/DerivedSources/x86_64 -I/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/HelloMyo.build/Release-iphonesimulator/HelloMyo.build/DerivedSources -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo -F/Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/.. --serialize-diagnostics /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-efyejmynwznimrdbjysrluyyqstj/HelloMyo-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-efyejmynwznimrdbjysrluyyqstj/HelloMyo-Prefix.pch.d -c /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/HelloMyo/HelloMyo-Prefix.pch -o /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloMyo-Prefix-efyejmynwznimrdbjysrluyyqstj/HelloMyo-Prefix.pch.pch36"0980FE77-EE13-4CA0-A997-935C7780427A-
+b538C4571-9623-4A90-84FB-D82B075DDB5B
+
+CTouch /Applications/TeamCity/buildAgent/work/aaf1e710f88e0f97/HelloMyo/build/Release-iphonesimulator/HelloMyo.app
+r0
+
