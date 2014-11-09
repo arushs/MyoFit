@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3D91C3C3-D073-42D0-9BC6-8E44661EBE86</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloMyo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3EA19C57D333567776F81228AEC2F735694701FD</key>
+		<string>https://github.com/arushs/MyoFit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HelloMyo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3EA19C57D333567776F81228AEC2F735694701FD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/arushs/MyoFit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3EA19C57D333567776F81228AEC2F735694701FD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3EA19C57D333567776F81228AEC2F735694701FD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyoFit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
